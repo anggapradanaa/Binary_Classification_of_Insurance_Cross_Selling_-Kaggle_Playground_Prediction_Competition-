@@ -1713,7 +1713,6 @@ y_test_pred_proba = pipeline_catboost.named_steps['algo'].predict_proba(X_test_t
 
 # Evaluation with ROC AUC Score
 
-
 ```python
 # Evaluate with ROC AUC Score
 roc_auc = roc_auc_score(y_test, y_test_pred_proba)
@@ -1722,8 +1721,6 @@ print(f'ROC AUC Score: {roc_auc:.4f}')
 
     ROC AUC Score: 0.8808
     
-
-
 ```python
 # Calculate and Visualize ROC Curve
 fpr, tpr, thresholds = roc_curve(y_test, y_test_pred_proba)
@@ -1743,7 +1740,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+<img src = 'https://github.com/anggapradanaa/Binary_Classification_of_Insurance_Cross_Selling_-Kaggle_Playground_Prediction_Competition-/blob/main/Visualization.png'>
     
 
 
