@@ -1,5 +1,13 @@
 # Binary_Classification_of_Insurance_Cross_Selling_Kaggle_Playground_Prediction_Competition-
-Predict which customers respond positively to an automobile insurance offer. (Rank 610/2234)
+# Overview
+Welcome to the 2024 Kaggle Playground Series! We plan to continue in the spirit of previous playgrounds, providing interesting an approachable datasets for our community to practice their machine learning skills, and anticipate a competition each month.
+
+Your Goal: The objective of this competition is to predict which customers respond positively to an automobile insurance offer.
+
+# Evaluation
+Submissions are evaluated using area under the ROC curve using the predicted probabilities and the ground truth targets.
+
+Rank (610/2234)
 <img src = 'https://github.com/anggapradanaa/Binary_Classification_of_Insurance_Cross_Selling_-Kaggle_Playground_Prediction_Competition-/blob/main/Leaderboard.png'>
 
 
