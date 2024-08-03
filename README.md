@@ -1,5 +1,6 @@
 # Binary_Classification_of_Insurance_Cross_Selling_Kaggle_Playground_Prediction_Competition-
 Predict which customers respond positively to an automobile insurance offer. (Rank 610/2234)
+<img src = 'https://github.com/anggapradanaa/Binary_Classification_of_Insurance_Cross_Selling_-Kaggle_Playground_Prediction_Competition-/blob/main/Leaderboard.png'>
 
 
 # Importing Libraries and Dataset
