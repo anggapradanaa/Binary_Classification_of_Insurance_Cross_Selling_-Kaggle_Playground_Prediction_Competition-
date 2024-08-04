@@ -1752,7 +1752,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+<img src = 'https://github.com/anggapradanaa/Binary_Classification_of_Insurance_Cross_Selling_-Kaggle_Playground_Prediction_Competition-/blob/main/Visualization.png'>
     
 
 
@@ -1783,7 +1783,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+<img src = 'https://github.com/anggapradanaa/Binary_Classification_of_Insurance_Cross_Selling_-Kaggle_Playground_Prediction_Competition-/blob/main/Feature%20Importance.png'>
     
 
 
